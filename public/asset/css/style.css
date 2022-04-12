@@ -1,0 +1,121 @@
+    @import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&family=Itim&family=Mali:ital,wght@1,500&family=Mitr:wght@200&family=Pattaya&family=Prompt:ital,wght@1,200&family=Rubik+Puddles&family=Sarabun:ital,wght@0,400;0,800;1,300&family=Sriracha&family=Srisakdi:wght@700&display=swap');
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: 'Charmonman', cursive;
+    }
+    
+    *::selection {
+        background-color: black;
+        color: azure;
+    }
+    
+    p,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    body {
+        font-family: 'Charmonman', cursive;
+    }
+    
+    body {
+        background-color: rgb(240, 248, 252);
+    }
+    
+    .separator {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+     ::-webkit-scrollbar {
+        width: 10px;
+    }
+    
+     ::-webkit-scrollbar-track {
+        background: #979797;
+    }
+    
+     ::-webkit-scrollbar-thumb {
+        background: #000000;
+    }
+    
+    #front-restaurant {
+        margin: 30 auto 10 auto;
+        color: black;
+    }
+    
+    #front-restaurant p {
+        color: rgb(146, 142, 142);
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    
+    #front {
+        padding: 60px;
+    }
+    
+    #front h3 {
+        margin-bottom: 12px;
+    }
+    
+    li {
+        display: contents;
+    }
+    
+    #front i {
+        color: darkslategrey;
+        font-size: 30px;
+    }
+    
+    .footer i {
+        color: #979797;
+        font-size: 30px;
+    }
+    
+    #tagfood h5 {
+        color: dimgrey;
+        font-size: 27px;
+    }
+    
+    #drinksanddesserts {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+    #drinksanddesserts td,
+    #drinksanddesserts th {
+        border: 3px solid rgb(24, 24, 24);
+        padding: 8px;
+    }
+    
+    #drinksanddesserts th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    
+    #trr:hover {
+        background-color: rgb(196, 196, 196);
+    }
+    
+    #drinksanddesserts th {
+        color: white;
+    }
+    
+    .trrcolor {
+        background-color: rgb(214, 235, 233);
+    }
+    
+    #ceo {
+        margin-top: 34px;
+        text-align: center;
+        display: inline-block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #ceo p {
+        color: #979797;
+    }
