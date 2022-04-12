@@ -7,7 +7,7 @@ practice website.
 
 <p>3.) Put all libraries in the node_modules folder in lib</p>
 <p>4.) If it doesn't work, use cdn instead.</p><br>
-
+ 
 not support responsive in mobile !!! 
  
 
