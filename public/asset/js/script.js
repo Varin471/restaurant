@@ -10,9 +10,3 @@ document.addEventListener("DOMContentLoaded", function(event) {
 window.onbeforeunload = function(e) {
     localStorage.sectltem('scrollpos', window.scroll(Y));
 };
-
-
-
-document.getElementById('continue').addEventListener('click', () => {
-    alert("ระบบยังไม่เสร็จสมบรูณ์ไว้มาใหม่")
-})
